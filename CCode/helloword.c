@@ -2,9 +2,15 @@
 //
 #include <stdio.h>
 
+void greeting();
+void hello();
 int main(){
 }
 
+void greeting(){
+	printf("This editor is very bad")
+}
+
 void hello(){
-	printf("Hello from telangana");
+	printf("Hello from hello");
 }
